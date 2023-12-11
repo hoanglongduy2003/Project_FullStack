@@ -1,0 +1,86 @@
+{
+  "products": [
+    {
+      "_id": {
+        "$oid": "64b73bda97b697daba00a89c"
+      },
+      "name": "Bộ Đồ Ăn Chén Bát Đĩa Tô Sứ Xanh Ngọc Lục Bảo Viền Vàng Phong Cách Bắc Âu Cao Cấp",
+      "price": 1850000,
+      "size": ["Bộ 6 người", "Bộ 10 người"],
+      "color": ["Xanh ngọc"],
+      "image": [
+        "https://bizweb.dktcdn.net/thumb/large/100/353/817/products/bo-chen-bat-dia-su-cao-cap-phong-cach-bac-au-sang-trong-1.jpg?v=1622124269787",
+        "https://bizweb.dktcdn.net/thumb/large/100/353/817/products/bo-chen-bat-dia-su-cao-cap-phong-cach-bac-au-sang-trong-2.jpg?v=1622124270483",
+        "https://bizweb.dktcdn.net/thumb/large/100/353/817/products/bo-chen-bat-dia-su-cao-cap-phong-cach-bac-au-sang-trong-4.jpg?v=1622124271247"
+      ],
+      "desc": "Set 6 người ăn gồm 27 món: 6 chén 4.5inch, 1 tô lớn 7 inch, 3 đĩa 7.5 inch, 3 đĩa 8 inch, 1 đĩa 12 inch, 6 chén nhỏ 3.5inch, 6 muỗng nhỏ bằng sứ, 1 muỗng múc canh lớn",
+      "id_cate": "64b7571197b697daba00a8a4"
+    },
+    {
+      "_id": {
+        "$oid": "64b757cb97b697daba00a8a9"
+      },
+      "name": "Móc Treo Đa Năng Dán Tường Siêu Chắc (Chịu Lực Đến 10kg Mỗi Móc)",
+      "desc": "Móc treo đa năng dán tường của ShuangQuing là sản phẩm tiện lợi thích hợp cho mọi ngóc ngách của ngôi nhà như phòng tắm, phòng ngủ, phòng khách... tiện lợi cho khách hàng.\nDùng để treo đồ đa năng như mũ bảo hiểm, quần áo, đồ dùng bếp & các loại đồ dùng gia đình khác... cực gọn gàng.\nChịu lực đến 10KG mà không cần phải khoan tường đục lỗ với công nghệ keo dán siêu chắc của ShuangQuing.",
+      "price": 7500,
+      "size": ["5cm x 5cm"],
+      "color": ["Trắng", "Đỏ", "Xanh lá"],
+      "image": [
+        "https://bizweb.dktcdn.net/thumb/large/100/353/817/products/moc-dan-tuong-sq.jpg?v=1667192326780",
+        "https://bizweb.dktcdn.net/thumb/large/100/353/817/products/0120-tmall.jpg?v=1667192394320",
+        "https://bizweb.dktcdn.net/thumb/large/100/353/817/products/2-06b0e3ab-bcda-4b15-84c6-5826397cb44c.jpg?v=1667192326780"
+      ],
+      "id_cate": "64b7574f97b697daba00a8a5"
+    },
+    {
+      "_id": {
+        "$oid": "64b75ac997b697daba00a8ab"
+      },
+      "name": "Kệ Đa Năng & Bộ Nhả Kem Đánh Răng Kèm Cốc Dán Tường Cao Cấp | Phiên Bản Nhiều Màu Sắc",
+      "desc": "-Kệ đa năng & Bộ nhả kem đánh răng kèm cốc dán tường chất liệu nhựa ABS, sử dụng lâu dài với thời gian\n-Tối ưu diện tích sử dụng, chứa được hầu hết các vận dụng trong nhà tăm của bạn\n-Bám tường chắc chắn, không khoan tường, bắt vít, khả năng chịu lực lên đến 25kg\n-Kệ đa năng & Bộ nhả kem đánh răng kèm cốc dán tường chống nước hiệu quả, đảm bảo vệ sinh cho các vật dụng nhà tắm",
+      "price": 180000,
+      "size": ["274mm x 211mm"],
+      "color": ["Trắng"],
+      "image": [
+        "https://bizweb.dktcdn.net/thumb/large/100/353/817/products/506.jpg?v=1625308661310",
+        "https://bizweb.dktcdn.net/thumb/large/100/353/817/products/1-d7798de7-13d7-4eee-9494-92e8d1fffb01.jpg?v=1608468929160",
+        "https://bizweb.dktcdn.net/thumb/large/100/353/817/products/bo-nha-kem-danh-rang-tu-dong-dan-tuong-ecoco-bo-2-coc-c9ecb6bb-7561-4b22-8daa-e00b265a52b0.jpg?v=1624523540843"
+      ],
+      "id_cate": "64b7578597b697daba00a8a6"
+    },
+    {
+      "_id": {
+        "$oid": "64c1fe11e82ffd0de12139d9"
+      },
+      "name": "abcasdlkfjasdgasd",
+      "price": 180000,
+      "size": ["274mm x 211mm"],
+      "color": ["Trắng"],
+      "image": [
+        "https://bizweb.dktcdn.net/thumb/large/100/353/817/products/506.jpg?v=1625308661310",
+        "https://bizweb.dktcdn.net/thumb/large/100/353/817/products/1-d7798de7-13d7-4eee-9494-92e8d1fffb01.jpg?v=1608468929160",
+        "https://bizweb.dktcdn.net/thumb/large/100/353/817/products/bo-nha-kem-danh-rang-tu-dong-dan-tuong-ecoco-bo-2-coc-c9ecb6bb-7561-4b22-8daa-e00b265a52b0.jpg?v=1624523540843"
+      ],
+      "desc": "-Kệ đa năng & Bộ nhả kem đánh răng kèm cốc dán tường chất liệu nhựa ABS, sử dụng lâu dài với thời gian\n-Tối ưu diện tích sử dụng, chứa được hầu hết các vận dụng trong nhà tăm của bạn\n-Bám tường chắc chắn, không khoan tường, bắt vít, khả năng chịu lực lên đến 25kg\n-Kệ đa năng & Bộ nhả kem đánh răng kèm cốc dán tường chống nước hiệu quả, đảm bảo vệ sinh cho các vật dụng nhà tắm",
+      "id_cate": {
+        "$oid": "64b7578597b697daba00a8a6"
+      },
+      "createdAt": {
+        "$date": "2023-07-27T05:18:09.020Z"
+      },
+      "updatedAt": {
+        "$date": "2023-07-27T05:18:09.020Z"
+      }
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
